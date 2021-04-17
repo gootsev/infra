@@ -1,1 +1,1 @@
-# infra
+# infrastructure repository
